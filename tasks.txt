@@ -1,0 +1,5 @@
+### Daily Task Tracker ###
+Date: 2024-12-21
+- [x] Learn Git basics
+- [ ] Practice Git commands
+
