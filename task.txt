@@ -1,0 +1,4 @@
+echo "### Daily Task Tracker ###" > tasks.txt
+echo "Date: $(date '+%Y-%m-%d')" >> tasks.txt
+echo "- [ ] Example Task: Learn Git basics" >> tasks.txt
+
